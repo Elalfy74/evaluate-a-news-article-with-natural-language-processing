@@ -11,10 +11,11 @@ Project is a webpage which has input area and button. when user enter a valid li
 
 ## Requirments:
 You have to instal `npm` and `node` in your computer to be able to run this project
-You should add your API_KEY at .env
+
 
 You need to install dependencies by `npm install`
 
+You should add your API_KEY at .env
 ## Test the project:
 you can test the it by `npm run test`
 ## Run the project:
