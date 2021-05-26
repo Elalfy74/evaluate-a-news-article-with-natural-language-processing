@@ -1,0 +1,52 @@
+form {
+    border: 1px solid #545454;
+    border-radius: 3px;
+    padding: 40px;
+
+}
+
+input {
+    padding: 5px 20px;
+    width: 100%;
+    line-height: 16px;
+    margin: 10px 0;
+    
+}
+#submit01{
+     
+        background: #ff0000;
+        border-radius: 12px;
+        padding: 18px 40px;
+        display: inline-block;
+        border: none;
+        color: #fdfdfe;
+        font-size: 17px;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all .3s;
+
+}
+#submit01:hover {
+    background-color: #808080;
+  }
+
+  
+.result{
+    background:#e9ecef;
+    height: 250px;
+}
+#date{
+    text-align: right;
+}
+#failed{
+    font-size: 0.8em;
+}
+#form_res{
+    font-weight: bold;
+    
+}
+.results{
+    font-size: 1em;
+    font-style: normal;
+    padding: 0.3ex;
+}
